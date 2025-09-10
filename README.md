@@ -8,12 +8,12 @@ python -m venv ./
 
 # Run Environment
 ```` 
-/Scripts/Activate
+./Scripts/Activate
  ````
 
 # Installation
 ````
-python install -r requirements.txt
+pip install -r requirements.txt
 ````
 
 # Run
